@@ -64,7 +64,7 @@ body{
     }
     .aboutus p{
         grid-column: 1/2;
-        border:3px solid rgb(192, 255, 253);
+        /* border:3px solid rgb(192, 255, 253); */
         justify-content: center;
         width: 100vw;
         font-size: 16px;
@@ -110,8 +110,7 @@ body{
         display: flex;
         align-items: center;
         flex-flow: column nowrap;
-        /* width: 80vw; */
-        border: 1px solid red;
+        /* border: 1px solid red; */
         margin: 1.5rem 0;
     }
     .find-desc{
